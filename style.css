@@ -1,44 +1,58 @@
-h1{
+body{
+    background-color: rgb(255, 231, 231);
+    color: rgb(175, 59, 150);
     text-align: center;
-background-color: rgb(59, 48, 47);
-border: 10px solid rgb(255, 173, 251) ;
+    }
+    
+    
+    
+    
+    
+    h1{
+        text-align: center;
+    background-color: rgb(59, 48, 47);
+    border: 10px solid rgb(255, 173, 251) ;
+    
+    }
+    
+    
+    em strong {
+    
+        color: rgb(255, 89, 205);
+    }
+    
+    #banner {
+    
+        width: 70%;
+    }
+    
+    .itens{
+        font-style: italic;
+    text-align: left;
+    }
+    
+    .beneficios{
+        background-color: rgba(218, 113, 113, 0.911);
+    padding: 20px;}
+    
+    h2{
+        text-align: center;
+        font-size: 35px;
+    }
+    
+    .imagembeneficios{
+        width: 50%;
+    }
 
-}
-
-
-em strong {
-
-    color: rgb(255, 89, 205);
-}
-
-#banner {
-
-    width: 70%;
-}
-
-.itens{
-    font-style: italic;
-text-align: left;
-}
-
-.beneficios{
-    background-color: rgba(218, 113, 113, 0.911);
-padding: 20px;}
-
-h2{
-    text-align: center;
-}
-
-.imagembeneficios{
-    width: 50%;
-}
-
-ul{
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 15%;
-    border: ;
-}
+    ul{
+        display: inline-block;
+        vertical-align: top; 
+        width:20%;
+        margin-right: 15%;
+        margin-top: 150px;
+        line-height: 1.5;
+        font-size: 18px;
+    }
 
 
 }
