@@ -3,26 +3,19 @@ body{
     color: rgb(175, 59, 150);
     text-align: center;
     }
-    
-    
-    
-    
-    
+
     h1{
         text-align: center;
     background-color: rgb(59, 48, 47);
     border: 10px solid rgb(255, 173, 251) ;
     
     }
-    
-    
+        
     em strong {
-    
         color: rgb(221, 19, 221);
     }
     
     #banner {
-    
         width: 70%;
     }
     
@@ -54,5 +47,14 @@ body{
         font-size: 18px;
     }
 
-
-}
+    footer {
+        text-align: center;
+        background: url("bg.jpg");
+        padding: 40px 0;
+     }
+     
+     .copyright {
+        color: #FFFFFF;
+        font-size: 13px;
+        margin: 20px 0 0;
+     }

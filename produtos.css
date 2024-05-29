@@ -51,3 +51,15 @@ nav a:hover {
    /* border: 2px solid #000000;*/
     border-radius: 10px;
 }
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+ }
+ 
+ .copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+ }

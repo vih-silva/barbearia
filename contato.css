@@ -50,3 +50,15 @@ select{
     background: rgb(95, 1, 81);
     transform: scale(1.2);
 }
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+ }
+ 
+ .copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+ }
